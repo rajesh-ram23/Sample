@@ -1,1 +1,1 @@
-This is second sample file
+This is second
